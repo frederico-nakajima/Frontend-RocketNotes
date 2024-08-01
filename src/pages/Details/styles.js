@@ -45,7 +45,7 @@ export const Content = styled.div`
     >h1{
         font-size: 36px;
         font-weight: 500;
-        padding: 64px;
+        padding: 64px 0 0 0;
     }
 
     >p{
