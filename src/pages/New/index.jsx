@@ -5,7 +5,7 @@ import { Textarea } from "../../components/Textarea";
 import { NoteItem } from "../../components/NoteItem";
 import { Section } from "../../components/Section";
 import { Button } from "../../components/Button";
-import  { Link } from 'react-router-dom';
+import { ButtonText } from '../../components/ButtonText'
 import { useState } from 'react';
 import  { api }  from '../../services/api';
 import { useNavigate } from "react-router-dom";
@@ -40,6 +40,10 @@ export function New(){
         setTags(prevState => prevState.filter(tag => tag !== deleted));
     }
 
+    function handleBack(){
+        navigate(-1);
+    }
+
     async function handleNewNote(){
         if(!title){
             return alert("Digite o título da nota");
@@ -59,7 +63,7 @@ export function New(){
             links
         });
         alert("Nota criada com sucesso!");
-        navigate("/");
+        navigate(-1);
     }
 
 
@@ -74,7 +78,10 @@ export function New(){
                     <h1>
                         Introdução ao React
                     </h1>
-                    <Link to="/">voltar</Link>
+                    <ButtonText 
+                        title="Voltar" 
+                        onClick={handleBack}
+                    />
                 </header>
 
                 <Input 
