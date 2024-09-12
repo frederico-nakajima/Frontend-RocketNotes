@@ -16,32 +16,32 @@
 <br>
 
 <p align="center">
-  <img alt="SignIn" src="src/assets/SignIn.png" width="100%">
+  <img alt="SignIn" src="src/assets/SignIn.png" width="60%">
 </p>
 <br>
 
 <p align="center">
-  <img alt="SignUp" src="src/assets/SignUp.png" width="100%">
+  <img alt="SignUp" src="src/assets/SignUp.png" width="60%">
 </p>
 <br>
 
 <p align="center">
-  <img alt="Home" src="src/assets/Home (1).png" width="100%">
+  <img alt="Home" src="src/assets/Home (1).png" width="60%">
 </p>
 <br>
 
 <p align="center">
-  <img alt="Note Create" src="src/assets/Note Create.png" width="100%">
+  <img alt="Note Create" src="src/assets/Note Create.png" width="60%">
 </p>
 <br>
 
 <p align="center">
-  <img alt="detalhes da nota escolhida" src="src/assets/Note Preview.png" width="100%">
+  <img alt="detalhes da nota escolhida" src="src/assets/Note Preview.png" width="60%">
 </p>
 <br>
 
 <p align="center">
-  <img alt="Perfil" src="src/assets/Perfil.png" width="100%">
+  <img alt="Perfil" src="src/assets/Perfil.png" width="60%">
 </p>
 
 ## 🚀 Tecnologias
