@@ -63,7 +63,7 @@ O RocketNotes é um projeto que mostra um site com telas de login,cadastro e as 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]https://www.figma.com/design/neCPHnC3p2noo3tVrrTE87/RocketNotes-(Copy)?node-id=15-40&node-type=frame&m=dev. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/neCPHnC3p2noo3tVrrTE87/RocketNotes-(Copy)?node-id=15-40&node-type=frame&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
