@@ -16,33 +16,12 @@
 <br>
 
 <p align="center">
-  <img alt="SignIn" src="src/assets/SignIn.png" width="60%">
+  <img alt="capa do projeto Rocket Notes" src="src/assets/Capa.png" width="100%">
 </p>
 <br>
 
-<p align="center">
-  <img alt="SignUp" src="src/assets/SignUp.png" width="60%">
-</p>
-<br>
 
-<p align="center">
-  <img alt="Home" src="src/assets/Home (1).png" width="60%">
-</p>
-<br>
 
-<p align="center">
-  <img alt="Note Create" src="src/assets/Note Create.png" width="60%">
-</p>
-<br>
-
-<p align="center">
-  <img alt="detalhes da nota escolhida" src="src/assets/Note Preview.png" width="60%">
-</p>
-<br>
-
-<p align="center">
-  <img alt="Perfil" src="src/assets/Perfil.png" width="60%">
-</p>
 
 ## 🚀 Tecnologias
 
